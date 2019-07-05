@@ -1,5 +1,5 @@
 ## CIAOPS
-## Script provided as is. Use at own risk. No guarantees or warranty provided.
+## Script provided as is. Use at own risk. No guarantees or warranty provided!.
 
 ## Description
 ## Script designed to collect the parameters required from a local machine for Autopilot deployment
